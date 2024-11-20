@@ -39,12 +39,6 @@ importers:
       postcss:
         specifier: 8.4.38
         version: 8.4.38
-      react:
-        specifier: 19.0.0-rc-cd22717c-20241013
-        version: 19.0.0-rc-cd22717c-20241013
-      react-dom:
-        specifier: 19.0.0-rc-cd22717c-20241013
-        version: 19.0.0-rc-cd22717c-20241013(react@19.0.0-rc-cd22717c-20241013)
       tailwindcss:
         specifier: 3.4.4
         version: 3.4.4
